@@ -1,6 +1,6 @@
 {
   "name": "legit-inflectors",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A collection of Rails like string inflections for JavaScript",
   "main": "lib/inflectors.js",
   "scripts": {
